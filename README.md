@@ -13,7 +13,17 @@
 <br/>
 
 <img src=https://github.com/user-attachments/assets/2d8eb196-3d1d-4005-b663-bda7ce1ad67c alt='image' width=340/>
-<image src=https://github.com/user-attachments/assets/9b49e1f3-f072-4139-9a17-bace2c0b6b77 alt='image' width=380/>
+<img src=https://github.com/user-attachments/assets/9b49e1f3-f072-4139-9a17-bace2c0b6b77 alt='image' width=380/>
+
+<br/><br/>
+
+
+![bandicam 2024-08-30 17-42-41-268](https://github.com/user-attachments/assets/832aef31-6434-4015-aa36-bd297bbe5b55)
+
+
+
+
+
 
 <br/><br/>
 

@@ -1,9 +1,10 @@
-# Trip_Bot
+# Rag-based Trip_Bot
 
 
-Main features 
-- Multi-modal conversation 
+## Main Features 
+- Multi-modal conversations
 - User profiling usring conversation (via ChromaDB) 
+- Trip place recommendation based on image/text query for retriving trip information 
 
 
 

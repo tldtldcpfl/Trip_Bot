@@ -1,6 +1,6 @@
-# Rag-based Trip Bot
+# Rag-based Trip Bot🤖
 
-## Main Features
+## About
 - Image/text understanding via Gpt-4o-mini 
 - Search relevant aricles about main concepts of images  
 

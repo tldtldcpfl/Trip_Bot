@@ -12,13 +12,12 @@
 
 <br/>
 
-<img src=https://github.com/user-attachments/assets/ef15dfdb-dba5-4b4c-93fb-f2248f19f152 alt='image' width=340/>
-<img src=https://github.com/user-attachments/assets/208060ee-e6ea-4966-bff5-124feec5af15 alt='image' width=380/>
+<p align='center'>
+<img src='https://github.com/user-attachments/assets/59a6e5b9-5812-4384-898f-791cba2d6b7c' alt='image' width=400>
+</p>
 
 <br/><br/>
 <br/>
-
-#### Writer info
 
 - Repository to be updated ...
 

@@ -6,10 +6,6 @@ from reranker import rerank_articles_by_scores, get_similarity_scores
 from web_search import search_naver_news, get_news  
 
 
-# 사용자 입력
-#user_query_sentence = input("질문을 입력해주세요 (문장 단위): ")
-user_query = "요즘 주택 청약 관련 소식이 궁금해요"  
-contents_keyword = '주택 청약'
 
 # 기사 검색 및 원문 기반 재정렬
 articles = search_naver_news(contents_keyword)  

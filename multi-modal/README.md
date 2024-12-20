@@ -1,4 +1,4 @@
-## Multi-modal RAG with Re-ranker 
+# Multi-modal RAG with Re-ranker 
 
 ***
 #### Demo

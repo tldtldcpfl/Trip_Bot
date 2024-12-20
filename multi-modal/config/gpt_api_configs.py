@@ -11,7 +11,7 @@ import requests
 
 
 #  .env 파일에 선언된 인자들을 불러오기
-dotenv.load_dotenv('/home/jovyan/crjo/AOAI.env')  
+dotenv.load_dotenv('/home/your/local/crjo/AOAI.env')  
 # 오스트레일리아 동부: gpt-4o, gpt-35-turbo
 openai_key = os.getenv('OPENAI_API_KEY_AUEA') # api-key
 openai_endpoint = os.getenv('OPENAI_AZURE_ENDPOINT_AUEA') # end point 

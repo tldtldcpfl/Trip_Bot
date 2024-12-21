@@ -2,5 +2,4 @@
 
 ***
 
-https://github.com/user-attachments/assets/d517aa78-ce99-4a62-881e-21e86a07304a
-
+![image_to_think](https://github.com/user-attachments/assets/7840a51e-e592-484b-bc02-460e96e82068)

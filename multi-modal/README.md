@@ -1,4 +1,4 @@
 ## Multi-modal RAG with Rerank search 
 
 ### Demo
-![image_to_think](https://github.com/user-attachments/assets/7840a51e-e592-484b-bc02-460e96e82068)
+![image_to_think](https://github.com/user-attachments/assets/7840a51e-e592-484b-bc02-460e96e82068){: width="50" height="50"}

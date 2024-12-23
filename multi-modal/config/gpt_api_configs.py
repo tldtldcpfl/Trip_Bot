@@ -2,7 +2,6 @@ import dotenv
 from dotenv import load_dotenv
 from openai import AzureOpenAI
 import os
-
 import requests
 from io import BytesIO
 import requests

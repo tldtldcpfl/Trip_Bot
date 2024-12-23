@@ -1,4 +1,4 @@
-## Multi-modal RAG with Rerank search 
+# Multi-modal RAG with Rerank search 
 
 ### Overview
 The Gpt-4o based Multimodal Rag System leverages advanced AI techniques to process images and deliver relevant information in a seamless workflow:

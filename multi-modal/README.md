@@ -10,6 +10,7 @@ The Gpt-4o based Multimodal Rag System leverages advanced AI techniques to proce
 
 - This system streamlines the process of transforming visual inputs into meaningful, text-based insights, enhancing user experience and accessibility.
 
+<br/>
 
 ### Demo
 - Gradio Demo:

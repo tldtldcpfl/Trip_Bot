@@ -1,7 +1,7 @@
 ## Multi-modal RAG with Reranker
 
 ### Overview
-The Gpt-4o based Multimodal Rag System leverages advanced AI techniques to process images and deliver relevant information in a seamless workflow:
+The Gpt-4o based Multi-modal Rag System leverages advanced AI techniques to process images and deliver relevant information in a seamless workflow:
 
 - **Feature Extraction:** The system analyzes uploaded images and identifies key landscape features using a multimodal model.
 - **Article Retrieval:** It uses the extracted features as search queries to find related articles.
